@@ -59,6 +59,14 @@
           "https://cdn.readkakegurui.com/file/cdnpog/berserk/chapter-99-5-prototype/46.jpg"
         ]
       }
+    },
+    "002": {
+      "title": "002",
+      "volume": "1",
+      "last_updated": "1642218533",
+      "groups": {
+        "Band of the Hawks": "/proxy/api/mangasee/chapter/Berserk-chapter-2"
+      }
     }
   }
 }
